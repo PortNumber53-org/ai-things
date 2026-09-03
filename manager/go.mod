@@ -1,10 +1,10 @@
 module ai-things/manager-go
 
-go 1.22
+go 1.25.0
 
 require (
 	github.com/charmbracelet/log v0.4.2
-	github.com/jackc/pgx/v5 v5.7.1
+	github.com/jackc/pgx/v5 v5.9.2
 	github.com/rabbitmq/amqp091-go v1.9.0
 )
 
@@ -25,9 +25,8 @@ require (
 	github.com/muesli/termenv v0.16.0 // indirect
 	github.com/rivo/uniseg v0.4.7 // indirect
 	github.com/xo/terminfo v0.0.0-20220910002029-abceb7e1c41e // indirect
-	golang.org/x/crypto v0.27.0 // indirect
 	golang.org/x/exp v0.0.0-20231006140011-7918f672742d // indirect
-	golang.org/x/sync v0.8.0 // indirect
+	golang.org/x/sync v0.17.0 // indirect
 	golang.org/x/sys v0.30.0 // indirect
-	golang.org/x/text v0.18.0 // indirect
+	golang.org/x/text v0.29.0 // indirect
 )
