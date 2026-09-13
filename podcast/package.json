@@ -11,13 +11,13 @@
   "repository": {},
   "license": "UNLICENSED",
   "dependencies": {
-    "@remotion/cli": "4.0.119",
+    "@remotion/cli": "4.0.524",
     "@remotion/media-utils": "4.0.119",
     "@remotion/zod-types": "4.0.119",
     "parse-srt": "1.0.0-alpha",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
-    "remotion": "4.0.119",
+    "remotion": "4.0.410",
     "zod": "^3.21.4"
   },
   "devDependencies": {
