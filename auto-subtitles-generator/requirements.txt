@@ -8,7 +8,7 @@ google-auth-oauthlib
 httplib2
 numpy
 pytube==15.0.0
-streamlit==1.13.0
+streamlit==1.54.0
 streamlit_lottie==0.0.3
 whisper
 ffmpeg
